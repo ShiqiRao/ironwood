@@ -1,0 +1,6 @@
+example:
+  service:
+    enabled: true
+starter:
+  test:
+   config: yyyy\xxx\lll\zzz
